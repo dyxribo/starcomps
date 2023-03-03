@@ -102,8 +102,6 @@ public class Button extends Component {
 			_background.height = _height_;
 			_backgroundOutline.width = _width_;
 			_backgroundOutline.height = _height_;
-
-			_displayIcon.isShowingBounds = true;
 		}
 
 		drawBG();
