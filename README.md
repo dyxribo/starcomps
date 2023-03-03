@@ -30,8 +30,9 @@ a stepper at the top left, next to a dialog which holds plaintext, a verticalbox
 * Chip
 * Dropdown Selector
 
+
 These classes still need work, but the ones listed are at least usable for most projects.
-will be updated as time goes on.
+they currently only support proprietary light and dark themes. will be updated as time goes on. 
 
 COMING NEXT
 ============
